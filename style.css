@@ -1,0 +1,168 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.royxat{
+    width: 470px;
+    height: 524px;
+    margin-top: 194px;
+    margin-left: 83px;
+}
+.title{
+    position: absolute;
+    width: 278px;
+    height: 42px;
+    left: 83px;
+    top: 194px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    color: #000000;
+}
+.btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 10px;
+    gap: 10px;
+    position: absolute;
+    width: 469px;
+    height: 65px;
+    left: 83px;
+    top: 653px;
+    color: #ffffff;
+    background: #1A3477;
+    border-radius: 5px;
+}
+.form-control1{
+    box-sizing: border-box;
+    position: absolute;
+    width: 470px;
+    height: 60px;
+    left: 83px;
+    top: 293px;
+    background: #ffffff;
+    border: 2px solid #1A3447;
+    border-radius: 5px;
+    padding-left: 9px;
+}
+.form-control2{
+    box-sizing: border-box;
+    position: absolute;
+    width: 470px;
+    height: 60px;
+    left: 83px;
+    top: 383px;
+    background-color: #ffffff;
+    border: 2px solid#B0B0B0;
+    border-radius: 5px;
+    padding-left: 9px;
+}
+.form-control3{
+    box-sizing: border-box;
+    position: absolute;
+    width: 470px;
+    height: 60px;
+    left: 83px;
+    top: 473px;
+    background-color: #ffffff;
+    border: 2px solid#B0B0B0;
+    border-radius: 5px;
+    padding-left: 9px;
+}
+.form-control4{
+    box-sizing: border-box;
+    position: absolute;
+    width: 394px;
+    height: 60px;
+    left: 159px;
+    top: 563px;
+    background-color: #ffffff;
+    border: 2px solid#B0B0B0;
+    border-radius: 5px;
+    padding-left: 9px;
+}
+.form-control5{
+    box-sizing: border-box;
+    position: absolute;
+    width: 69px;
+    height: 60px;
+    left: 83px;
+    top: 563px;
+    background-color: #ffffff;
+    border: 2px solid#B0B0B0;
+    border-radius: 5px;
+    padding-left: 9px;
+}
+.raqam{
+    display: flex;
+}
+.row{
+    background-color: FFFFFF;
+}
+.logotip{
+    position: absolute;
+    width: 127px;
+    height: 38px;
+    margin-left: 65px;
+   padding-top: 33px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+}
+.inc{
+    color: blue;
+}
+
+.right-card{
+    position: absolute;
+    width: 720px;
+    height: 984px;
+    left: 700px;
+    top: 20px;
+    background: rgba(217, 255, 253, 0.6);
+    border-radius: 30px;
+}
+.matn{
+    position: absolute;
+    width: 640px;
+    height: 210px;
+    left: 51px;
+    top: 218px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 110%;
+    color: #1A3447;
+}
+.kichik-matn{
+    position: absolute;
+    width: 563px;
+    height: 42px;
+    left: 53px;
+    top: 466px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    color: rgba(26, 52, 71,0.7);
+}
+.bolacha{
+    position: absolute;
+    width: 418px;
+    height: 418px;
+    left: 151px;
+    top: 570px;
+}
+.tolqin{
+    position: absolute;
+    width: 2225.25px;
+    height: 552.51px;
+    left: -766px;
+    top: 197.44px;
+    transform: rotate(-24.57deg);
+}
